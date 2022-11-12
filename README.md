@@ -1,1 +1,0 @@
-# EGY-_-high_school_scrape-r
