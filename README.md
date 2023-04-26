@@ -11,3 +11,4 @@ take seat numbers range input ex: 100-500
 
 will produce a CSV file with VALID seat numbers
 
+it has a pdf shows a dashboard comparing between governers
