@@ -5,10 +5,11 @@
 
 
 Usage
-this code scrapes student's grade details from shbabbek 
+this code scrapes students' grade details from Shbabbek 
 
 take seat numbers range input ex: 100-500
 
 will produce a CSV file with VALID seat numbers
 
-it has a pdf shows a dashboard comparing between governers
+Dashboard 
+![canvas](https://github.com/seifmohamed-data/EGY-high_school_project/assets/37443125/e8f03429-3c15-4e75-88dd-51e3710b0e5a)
