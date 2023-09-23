@@ -22,9 +22,8 @@ what are the best governors?
   - The best governors in success rate are Portsaid, Dakahlia, and Damietta
 
 how do students choose sections according to their governors?
-
-  -most students in governors near the capital choose the literary section
+- most students in governors near the capital choose the literary section
 
 What is the success rate in sections?
 
-  -Science section has the highest success rate below it the literary section
+  - Science section has the highest success rate below it the literary section
